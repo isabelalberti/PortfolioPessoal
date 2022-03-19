@@ -1,5 +1,78 @@
-.bgYellow{
-    background-color: rgba(255, 187, 0, 0.952);
-  height: 25rem;
-    
+* {
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100%;
+  margin: auto;
+}
+
+.bgYellow {
+  background-color: rgba(255, 187, 0, 0.952);
+}
+
+.texto {
+  font-size: 40pt;
+  margin-top: 10rem;
+  margin-left: 75%;
+  letter-spacing: 0.4rem;
+}
+
+.meunome {
+  font-size: 370%;
+  letter-spacing: 0.3rem;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: end;
+  text-shadow: 2px 4px rgba(255, 187, 0, 0.952);
+}
+
+.profissao {
+  display: flex;
+  justify-content: end;
+  letter-spacing: 0.2rem;
+  margin-right: 2%;
+  margin-top: 1rem;
+  font-style: oblique;
+  text-shadow: 1px 1px rgba(255, 187, 0, 0.952);
+}
+
+.eu {
+  margin-top: 20%;
+  border: 7px solid rgba(255, 187, 0, 0.952);
+  border-radius: 55%;
+  margin-left: 10%;
+}
+
+.projeto {
+  font-size: 20pt;
+  margin-top: 1%;
+}
+
+.logo {
+  margin-left: 16%;
+}
+
+.logoeasywork {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.sobreMim{
+ margin-left: 10%;
+ margin-top: 10%;
+  font-size: 16pt;
+}
+
+
+spam{
+color: rgb(189, 100, 16);
+font-size: 18pt;
+}
+
+.gen{
+  color:  rgb(189, 100, 16);
+  font-size: 18pt;
 }
